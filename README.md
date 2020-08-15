@@ -18,10 +18,11 @@ For more information on working with V3 alpha/beta, please see the docs [here](.
   ```
 
 3. Run the setup script
-prefer pip3 since pip says: validators requires Python '>=3.4' but the running Python is 2.7.17
+
+Note: preffering pip3 instead pip as it says: validators requires Python '>=3.4' but the running Python is 2.7.17
 
   ```bash
-  pip install .
+  pip3 install .
   ```
 
 ## Scripts
